@@ -1,24 +1,49 @@
-👋 Hi there! I'm Sonu Kumar
-🚀 Backend Developer | Data Engineering Enthusiast | Cloud Specialist
-I specialize in crafting scalable, efficient, and reliable backend solutions using Python frameworks like Django, Flask, and FastAPI. My expertise bridges software development and Data Engineering, delivering impactful solutions with AWS and GCP.
+# 👋 Hi, I'm **Sonu Kumar**  
 
-🎓 About Me
-🏫 Graduated as a top-ranking Computer Science scholar from Dr. A.P.J. Abdul Kalam Technical University.
-💻 Proficient in Python, OOPS, Multi-Threading, and Async Programming.
-🗃️ Experienced with databases: PostgreSQL, MySQL, Redis, DynamoDB, MongoDB.
-🔧 Tech Skills
-Languages & Frameworks: Python, Django, Flask, FastAPI, asyncio.
-Cloud & Data Engineering: PySpark, AWS Glue, S3, Lambda, Docker, Kubernetes.
-DevOps & Tools: CI/CD pipelines, Git, REST APIs.
-Programming Concepts: Data Structures, Algorithms, Async Programming.
-📚 What I’m Passionate About
-🛠 Core Contributor: Actively contributing to the Django library.
-✍️ Knowledge Sharing: Authored insightful articles on programming, Data Structures, Algorithms, and Python.
-🌍 Community Builder: Passionate about engaging with the global tech community.
-🤝 Let’s Collaborate!
-I'm always open to:
+### 🚀 **Backend Developer | Data Engineering Specialist | Generative AI Enthusiast**  
 
-Exploring backend architecture.
-Implementing cloud integrations.
-Brainstorming and building innovative projects.
-📫 Feel free to connect with me and explore some of my projects right here on GitHub! Let’s innovate and transform ideas into impactful solutions together.
+I’m a versatile developer with expertise in crafting **scalable**, **efficient**, and **intelligent backend solutions**. My skill set spans **Python frameworks** like **Django, Flask, and FastAPI**, as well as advanced **Data Engineering** and **Generative AI** techniques.  
+
+---
+
+### 🛠 **Tech Skills**  
+
+#### **Programming Languages:**  
+- Python, SQL, Golang, Rust, C/C++  
+
+#### **Developer Tools:**  
+- Visual Studio Code, PyCharm, Git, GitHub, GitLab, Datadog, MS Flow  
+
+#### **Frameworks:**  
+- **Python Frameworks**: Django, Celery, Django REST Framework (DRF), Flask, FastAPI  
+- **Other Frameworks**: GoGin  
+
+#### **AI & Data:**  
+- Generative AI, Large Language Models (LLMs), PySpark  
+
+#### **Databases & Data Warehouses:**  
+- PostgreSQL, MongoDB, Snowflake, Redshift, MySQL, AWS DynamoDB  
+
+#### **ETL Tools:**  
+- AWS Glue, AWS Athena, AWS Lambda, AWS S3, Airflow  
+
+#### **CI/CD Tools:**  
+- AWS ECS, AWS ECR, Docker, AWS CloudWatch, GitHub Actions, AWS EC2  
+
+---
+
+### 🌱 **What I'm Exploring**  
+- Generative AI and Large Language Models (LLMs)  
+- Cutting-edge advancements in backend development and AI integration  
+
+---
+
+### 📚 **What I’m Passionate About**
+- 🛠 **Core Contributor**: Actively contributing to the **Django library**.
+- ✍️ **Knowledge Sharing**: Authored insightful articles on **programming, Data Structures**, **Algorithms**, and **Python**.
+- 🌍 **Community Builder**: Passionate about engaging with the global tech community.
+
+---
+
+### 🤝 **Let’s Connect!**  
+Whether you’re building **innovative backend systems**, designing **ETL workflows**, or diving into **AI-driven solutions**, I’d love to collaborate and create impactful technologies together!  
